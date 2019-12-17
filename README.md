@@ -1,9 +1,6 @@
 # 移动端UI自动化测试
 
-这个是IOS项目,android项目见zyb_autotest，
-刚开始做写代码的时候，准备android和IOS重用同一套框架代码，后来考虑到Android和IOS界面布局，控件定位方式很多不一样，
-也跟许多朋友交流过，两套混在一起维护困难，所以考虑分开做。
-（appium里有@AndroiodFindBy  @IosFindBy，有兴趣的同学可以尝试）
+这个是IOS项目,android项目见zyb_autotest
 
 ## 使用工具
 
