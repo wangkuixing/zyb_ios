@@ -1,4 +1,4 @@
-# 移动端UI自动化测试
+# 证券交易APP UI自动化测试
 
 这个是IOS项目,android项目见zyb_autotest
 
